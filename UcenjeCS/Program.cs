@@ -1,7 +1,8 @@
 ﻿using UcenjeCS;
 
+Variables.Izvedi();
 
-PrintingAString.Izvedi();
+//PrintingAString.Izvedi();
 
 //HelloWorld.Izvedi();
 
