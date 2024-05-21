@@ -1,0 +1,4 @@
+﻿using UcenjeCS;
+
+HelloWorld.Izvedi();
+
