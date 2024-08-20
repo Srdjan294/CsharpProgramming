@@ -1,6 +1,8 @@
 ﻿using UcenjeCS;
 
-Variables.Izvedi();
+Calculations.Izvedi();
+
+//Variables.Izvedi();
 
 //PrintingAString.Izvedi();
 
