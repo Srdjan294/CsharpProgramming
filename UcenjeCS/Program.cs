@@ -1,6 +1,8 @@
 ﻿using UcenjeCS;
 
-Calculations.Izvedi();
+ConditionalsAndComparison.Izvedi();
+
+//Calculations.Izvedi();
 
 //Variables.Izvedi();
 
